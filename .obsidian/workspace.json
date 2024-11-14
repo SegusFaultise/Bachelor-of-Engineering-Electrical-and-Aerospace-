@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d423394ee50d2896",
+        "id": "0196bdbbeaab7b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ee96e44d7ab859be",
+            "id": "afeccee590ba3039",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrical Engineering/Circuits/MIT opensoureceware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MIT opensoureceware"
             }
           },
           {
@@ -107,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electrical Engineering/Circuits/MIT opensoureceware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from MIT opensoureceware"
             }
           },
           {
@@ -132,9 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Electrical Engineering/Circuits/MIT opensoureceware.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of MIT opensoureceware"
             }
           },
           {
@@ -147,11 +151,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,19 +170,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec2979b1ea5f73a3",
+  "active": "500aa8575bb40320",
   "lastOpenFiles": [
-    "Electrical Engineering/Circuits",
-    "Electrical Engineering",
-    "Aerospace Engineering/Physics/Electricity and Magnetism",
-    "Aerospace Engineering/Physics/Classical Mechanics",
-    "Aerospace Engineering/Physics",
-    "Aerospace Engineering/Mathematics/Differential Equations",
-    "Aerospace Engineering/Mathematics",
-    "Aerospace Engineering/Embedded Control Systems",
-    "Aerospace Engineering/Control Systems",
-    "Aerospace Engineering/Aerospace Fundamentals",
-    "Aerospace Engineering",
-    "Welcome.md"
+    "Electrical Engineering/Circuits/Lectures.md",
+    "Electrical Engineering/Circuits/MIT opensoureceware.md",
+    "Electrical Engineering/Circuits/Syllabus.md",
+    "Electrical Engineering/Circuits/Readings/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf",
+    "Electrical Engineering/Circuits/Readings/Agarwal and Lang (2005) Foundations of Analog and Digital.pdf.crdownload",
+    "Electrical Engineering/Circuits/Readings",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Syllabus.md",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/52a0153a9552f8f4deb459efd3bd1392_summary_w14d1.pdf",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/795f84ec4e6dbfbec32b3a222a93a0b1_summary_w13d3.pdf",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/0bef575d684378945e58fa2be4aad5a1_summary_w13d2.pdf",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/6e6b16abf1e2f5b2144967521a8fc38c_summary_w13d1.pdf",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/3034ee731a152a139915c63e8fa1a675_summary_w12d3.pdf",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/a1bfc34ccf08ddf8474627b9a13d6ca8_summary_w12d2.pdf",
+    "Aerospace Engineering/Physics/Electricity and Magnetism/Readings/4013cef536c711ffa14051b8666daf00_summary_w12d1.pdf",
+    "Aerospace Engineering/Physics/Classical Mechanics/Lectures.md",
+    "Aerospace Engineering/Physics/Classical Mechanics/MIT opensourceware.md",
+    "Aerospace Engineering/Physics/Classical Mechanics/Syllabus.md",
+    "Aerospace Engineering/Thermodynamics/Lectures.md",
+    "Aerospace Engineering/Thermodynamics/Syllabus.md",
+    "Aerospace Engineering/Thermodynamics/MIT opensourceware.md",
+    "Aerospace Engineering/Signal Processing/MIT opensourceware.md",
+    "Aerospace Engineering/Materials Science/MIT opensourceware.md",
+    "Aerospace Engineering/Fluid Dynamics/lectures.md",
+    "Aerospace Engineering/Fluid Dynamics/MIT opensourceware.md",
+    "Aerospace Engineering/Control Theory/MIT opensourceware.md",
+    "Aerospace Engineering/Materials Science/Syllabus.md",
+    "Aerospace Engineering/Materials Science/Lectures.md",
+    "Aerospace Engineering/Fluid Dynamics/Syllabus.md",
+    "Aerospace Engineering/Signal Processing/Lectures.md",
+    "Aerospace Engineering/Signal Processing/Syllabus.md",
+    "Aerospace Engineering/Control Theory/Lectures.md",
+    "Electrical Engineering/Control Systems/Syllabus.md",
+    "Electrical Engineering/Control Systems/Lectures.md",
+    "Aerospace Engineering/Control Theory/Syllabus.md",
+    "Aerospace Engineering/Antenna Theory/Lectures.md",
+    "Aerospace Engineering/Antenna Theory/Syllabus.md"
   ]
 }

@@ -1,0 +1,37 @@
+
+### Learning Objectives
+
+16.100 is a course about aerodynamics, i.e. the study of the flow of air about a body. In our case, the body will be an airplane, but much of the aerodynamics in this course is relevant to a wide variety of applications from sail boats to automobiles to birds. 16.100 has a set of learning objectives which you should always keep in your thoughts as the semester progresses. The entire course is structured to (hopefully) help you achieve these objectives. Specifically, students graduating from 16.100 will be able to:
+
+1. Formulate and apply appropriate aerodynamic models to predict the forces on and performance of realistic three-dimensional configurations;
+2. Assess the applicability of aerodynamic models to predict the forces on and performance of realistic three-dimensional configurations and estimate the errors resulting from their application;
+3. Perform a computational and experimental aerodynamic analysis and design together with members of a team.
+
+#### Comment on Aerodynamic Models
+
+An aerodynamic model is simply a method to estimate the aerodynamic performance (e.g. the lift or drag) of an object (e.g. an airfoil, wing, or airplane). An aerodynamic model could be based on experiments, computation or theory but often lies in the middle ground using a judicious combination of all three approaches. For example, an aerodynamic model might be incompressible thin airfoil theory; or, an aerodynamic model might be incompressible thin airfoil theory with a skin friction drag estimate; or, an aerodynamic model might be a wind tunnel experiment at low speed with theoretical corrections for wall effects and higher speed flight conditions. In 16.100, a variety of aerodynamic models will be covered which could then be combined to produce a more complex model as dictated by the application. Specific aerodynamic models that students will encounter may vary slightly from semester-to-semester but will generally include: 2-D/3-D potential flows (incompressible to supersonic) including panel and vortex lattice methods; boundary layer methods including the effects of transition and turbulence; coupled inviscid-viscous models; 2-D/3-D Euler and Navier-Stokes computations; wind tunnel testing.
+
+### Measurable Outcomes
+
+Students graduating from 16.100 will be able to:
+
+1. Apply flow similarity, non-dimensional coefficients such as the lift and drag coefficient, and non-dimensional parameters such as the Mach number and Reynolds number in aerodynamic modeling of realistic configurations (homework, team project reports, exams).
+2. Apply integral momentum conservation and streamline curvature arguments to explain the relationship between flow turning, the generation of lift on an airfoil, and the subsequent loss of lift upon stall (homework, exams).
+3. Explain the sources of friction, induced, wave, and pressure drag (homework, exams).
+4. Explain the motion and deformation of a fluid element using kinematics including the definition of shear strain, normal strain, vorticity, divergence, and the substantial derivative (homework, exams).
+5. (a) Explain the concept of a laminar boundary layer including the definition of the displacement thickness, the momentum thickness, and the skin friction coefficient, and the importance of the Reynolds number in determining the presence and behavior of a boundary layer (homework, exams), and (b) Apply the integral boundary layer equations to describe the qualitative evolution of a laminar boundary layer including separation and to quantitatively estimate the local thickness and skin friction (homework, exams).
+6. Explain the onset of turbulence in a boundary layer (i.e. transition) and the qualitative effects of turbulence on boundary layer evolution including the impact on velocity profile, skin friction coefficient, boundary layer thickness, and separation (homework, exams).
+7. Estimate friction drag on 2-D and 3-D configurations by decomposing the geometry into patches and assuming appropriate local values of skin friction coefficients including the possibility of laminar or turbulent boundary layer conditions (homework, team project reports, exams).
+8. Explain the basic elements (see Comment on basic elements below) of 2-D panel methods and 3-D vortex lattice methods (homework, exams).
+9. Explain the basic elements of coupled inviscid-viscous models for 2-D airfoils (homework, exams).
+10. (a) Explain the basic elements of thin airfoil potential flow models for 2-D subsonic and supersonic flows (homework, exams), and (b) Apply thin airfoil potential flow models to estimate the forces on airfoils in 2-D subsonic and supersonic flows (homework, written exam).
+11. (a) Explain the basic elements of the lifting line model for high aspect ratio wings (homework, exams), (b) Describe the dependence of lift and induced drag on geometry and performance parameters (e.g. aspect ratio, twist, camber distribution, wing loading, flight speed, etc.) using the lifting line model (homework, exams), and (c) Apply the lifting line model to estimate lift, induced drag, and roll moments on high aspect ratio wings (homework, written exam).
+12. Explain the basic elements of the finite volume approximation to the compressible Euler and Navier-Stokes equations (homework, exams).
+13. (a) Explain the relationship between sound propagation and shock waves (exams), (b) Describe the qualitative change in flow conditions (Mach number, pressure, temperature, total pressure, etc.) across shocks and expansion fans (exams), (c) Estimate the change in flow conditions across shocks and expansion fans using shock-expansion theory (homework, written exam) (d) explain transonic drag rise including the critical Mach number and the use of wing sweep to delay drag rise (homework, exams).
+14. Explain the use of wind tunnel testing in aerodynamic modeling focusing on the importance of flow similarity in scale testing and on the typical corrections (e.g. wall corrections) required to simulate flight conditions (homework, team project reports, exams).
+15. Assess the ability and limitations of an aerodynamic model to estimate lift and drag (separated into friction, induced, wave, and pressure drag contributions) for a specific application (homework, team project reports, exams).
+16. Contribute substantially as an individual to the design and execution of a computational and experimental aerodynamic analysis of realistic 3-D configuration together with members of a team (team project reports).
+
+#### Comment on Basic Elements
+
+The basic elements of a model includes the critical features which produce a valuable predictive method. For example, consider a 2-D panel method. The basic elements would include: all of the underlying assumptions of incompressible, potential flow; the discretization of an airfoil geometry into a set of line segments on which potential flow solutions are distributed; the satisfaction of flow tangency at panel control points; the global influence of an individual panel on all other panels; the imposition of the Kutta condition; etc. However, the basic elements would not include the more detailed aspects of the method which while important, are not critical to understanding how the method works. In the 2-D panel method example, it would not include the details of the calculation of the influence coefficient of a general source/vortex/doublet panel; the solution of the large linear system of equations; etc.
