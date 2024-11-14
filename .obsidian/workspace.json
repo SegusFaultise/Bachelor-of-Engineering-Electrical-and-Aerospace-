@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "1636d21d062ec4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d423394ee50d2896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee96e44d7ab859be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de98726c9814481e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d683a22691cbbd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "500aa8575bb40320",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4546f07751c75ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b951fb13a00e0bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d0b3cd2c7cdbf55",
+    "type": "split",
+    "children": [
+      {
+        "id": "7622c8f6545161f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec2979b1ea5f73a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2ee9941d363157a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "84b820bd2647a399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ef45457b378d77b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "545373fdc3fc7288",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ec2979b1ea5f73a3",
+  "lastOpenFiles": [
+    "Electrical Engineering/Circuits",
+    "Electrical Engineering",
+    "Aerospace Engineering/Physics/Electricity and Magnetism",
+    "Aerospace Engineering/Physics/Classical Mechanics",
+    "Aerospace Engineering/Physics",
+    "Aerospace Engineering/Mathematics/Differential Equations",
+    "Aerospace Engineering/Mathematics",
+    "Aerospace Engineering/Embedded Control Systems",
+    "Aerospace Engineering/Control Systems",
+    "Aerospace Engineering/Aerospace Fundamentals",
+    "Aerospace Engineering",
+    "Welcome.md"
+  ]
+}
